@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," H-bridge Motor Driver"
+"M1",1," DC Motor"
+"BAT1",1," 9V Battery"
+"C1",1,"1000 uF, 16 V Polarized Capacitor"
+"S2",1," Pushbutton"
+"U4",1," IR sensor"
+"R1",1,"1.7 kΩ Resistor"
